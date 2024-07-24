@@ -1,0 +1,13 @@
+E:\c_shape_pjs\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\c_shape_pjs\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\c_shape_pjs\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\c_shape_pjs\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+E:\c_shape_pjs\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\c_shape_pjs\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+E:\c_shape_pjs\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\c_shape_pjs\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\c_shape_pjs\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\c_shape_pjs\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\c_shape_pjs\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\c_shape_pjs\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+E:\c_shape_pjs\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources
